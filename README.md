@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fy5931
+- 👋 Hi, I’m guoenlu @fy5931 
 - 👀 I’m interested in arts and computer science
 - 🌱 I’m currently learning basic introduction of computers and languages
 - 💞️ I’m looking to collaborate on ...
